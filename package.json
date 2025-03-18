@@ -1,0 +1,13 @@
+{
+  "name": "vite-react-typescript-starter",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite"
+  },
+  "devDependencies": {
+    "vite": "^4.0.0"
+  },
+  "dependencies": {
+    "vite-react-typescript-starter": "file:"
+  }
+}
